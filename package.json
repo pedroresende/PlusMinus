@@ -1,0 +1,22 @@
+{
+  "name": "plusminus",
+  "version": "1.0.0",
+  "description": "Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. Print the decimal value of each fraction on a new line with  places after the decimal.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pedroresende/PlusMinus.git"
+  },
+  "author": "Pedro Resende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroresende/PlusMinus/issues"
+  },
+  "homepage": "https://github.com/pedroresende/PlusMinus#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
